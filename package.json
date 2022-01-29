@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest day-03/solution.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevlin/adventofcode2021.git"
+  },
+  "author": "Nevlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nevlin/adventofcode2021/issues"
+  },
+  "homepage": "https://github.com/Nevlin/adventofcode2021#readme",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}
